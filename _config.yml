@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/dsblog"
 url: "https://ghaffarik.github.io"
 title: Data Science # site's title
 description: "Resources for learning data science" # used by search engines
