@@ -1,3 +1,3 @@
 # This Repo
 
-Initial Space for my data science blog.
+Initial space for my data science blog.
