@@ -22,7 +22,7 @@ I was introduced to Udacity's Machine Learning course while reading [this articl
 
 
 
-![Code]({{ "/assets/img/1.sklearn.png" | relative_url}})
+![Code]({{ "../assets/img/1.sklearn.png" | relative_url}})
 
 It seems the course strives to cover many of the essential concepts in machine learning; a definite plus for those who want to get started quickly and don’t have the luxury to take their time. This however will make the lessons feel rushed. I will be posting my impressions of this course one more time after completing all the 17 lessons. 
 
